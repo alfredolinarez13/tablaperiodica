@@ -1,0 +1,79 @@
+.columnas{
+    display: inline-block;
+    width: 35px;
+    height: 25px;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bolder;
+    border: 2px solid;
+    border-radius: 5px;
+}
+
+.centrar{
+    margin-left: 340px;
+}
+
+.colorVerde{
+    background-color: mediumseagreen;
+}
+
+.colorAzul{
+    background-color: MediumTurquoise;
+}
+
+.colorAzul2{
+    background-color: SkyBlue;
+}
+
+.colorMorado{
+    background-color: MediumPurple;
+}
+
+.colorMorado2{
+    background-color: MediumOrchid;
+}
+
+.colorVerde2{
+    background-color: YellowGreen;
+}
+
+.colorAmarillo{
+    background-color: rgb(202, 205, 50);
+}
+
+.colorNaranja{
+    background-color: Orange;
+}
+
+.colorNaranja2{
+    background-color: OrangeRed;
+}
+
+.colorRosadito{
+    background-color: Coral;
+}
+
+
+
+.filasEsp{
+
+    margin-top: 20px;
+    margin-left: 118px;
+}
+
+.fueraPuntos{
+    border: hidden;
+    font-size: 1px;
+    width: 35px;
+    height: 10px;
+}
+
+.leyenda{
+    margin-top: 50px;
+    display: inline-block;
+    width: 55px;
+    height: 35px;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bolder;    
+}
